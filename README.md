@@ -1,8 +1,4 @@
-# bruterJam-
-A well Developed Brute force Attack 
-
-
-# BruteX2.0
+# BruteX
 BruteX2.0 is A bruteForce attacking tool
 
 ## Whats New
